@@ -1,2 +1,2 @@
-# good-night-flare
-Good Night Animation to use in the Flutter
+# flare-Animations
+Use this flare animations in json format for your flutter app
