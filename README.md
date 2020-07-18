@@ -1,2 +1,2 @@
 # flare-Animations
-Use this flare animations in json format for your flutter app
+Use this flare animations in binary format for your flutter app
